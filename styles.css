@@ -1,0 +1,117 @@
+body{
+  background-color: hsl(218, 28%, 13%);
+  color:hsl(0, 0%, 100%);
+  font-family: 'Open Sans', sans-serif;
+  font-size:14px;
+}
+.my-navbar{
+  margin-top:32px;
+  margin-bottom:30px;
+}
+.container{
+  padding-bottom:200px;
+}
+img.brand{
+  width:100px;
+}
+.nav-link {
+color: white !important;
+}
+img.illustration {
+  margin-left:330px;
+  margin-right:auto;
+  width:40%;
+  height:50%;
+}
+a:hover{
+  color:hsl(176, 68%, 64%);
+}
+a{
+  color:hsl(176, 68%, 64%);
+  text-decoration:underline;
+}
+h4{
+  margin-top:20px;
+  text-align:center;
+  font-family: 'Raleway', sans-serif;
+  font-weight:700;
+}
+p{
+  margin-top:20px;
+  text-align: center;
+  font-weight:400;
+}
+.btn-primary{
+  margin-left:auto;
+  margin-right:auto;
+  display:block;
+  text-align: center;
+}
+.icon img{
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+}
+h6{
+  margin-top:20px;
+  text-align:center;
+}
+
+.productive img{
+  margin-top:40px;
+  width:90%;
+}
+h2{
+  margin-top:100px;
+  /* margin-left:50px; */
+  font-family: 'Raleway', sans-serif;
+  font-weight:700;
+}
+.prod p{
+  text-align:left;
+}
+/* ///////////////////////////////////////////////////////////////// */
+/* profile */
+.profile{
+  padding-left:30px;
+  padding-top:10px;
+  padding-bottom:30px;
+  border-radius:5px;
+  box-shadow:7px 7px hsl(217, 28%, 15%);
+  margin:50px 20px;
+  background-color:hsl(219, 30%, 18%);
+}
+.profile p{
+  text-align:left;
+}
+.profile-card{
+  margin-top:50px;
+}
+.profile-card img{
+  margin-top:14px;
+  position:absolute;
+}
+.profile img{
+  position:relative;
+  margin-right:20px;
+  float:left;
+  display:block;
+  border-radius:100%;
+  width:18%;
+}
+.review-name{
+  text-align:left;
+  margin-top:30px;
+  margin-bottom:3px;
+}
+.review-para{
+  margin-top:0;
+  font-size:12px;
+}
+.early-access{
+  background-color: hsl(217, 28%, 15%);
+}
+.footer{
+  padding:200px;
+  background-color:hsl(216, 53%, 9%);
+}
