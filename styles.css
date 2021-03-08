@@ -110,8 +110,58 @@ h2{
 }
 .early-access{
   background-color: hsl(217, 28%, 15%);
+  position:relative;
+  width:80%;
+  left:120px;
+  padding:50px;
+  bottom:210px;
+}
+.input-form{
+  display:inline-flex;
+  width:50%;
+  margin-top:32px;
+  margin-right:20px;
+  margin-left:130px;
+}
+.heading-early-access{
+  text-align:center;
+}
+.a-button{
+  margin-top:20px;
+}
+.get-started{
+  display: inline;
+  margin-bottom:7px;
 }
 .footer{
-  padding:200px;
+  padding:50px 100px;
   background-color:hsl(216, 53%, 9%);
+}
+.footer-logo{
+  width:200px;
+}
+.location{
+  margin-left: 15px;
+}
+.second-icon{
+  margin-right: 10px;
+}
+.footer-left{
+  margin-top:40px;
+}
+ul {
+  list-style-type: none;
+}
+li{
+  margin-bottom:9px;
+}
+.first-footer{
+  position:relative !important;
+  bottom:50px;
+}
+.last-icons{
+  margin-right:8px;
+}
+.github{
+  display:inline;
 }
